@@ -1,0 +1,35 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Crimson Text", serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+img {
+  width: 60%;
+  border-radius: 5px;
+}
+
+#img-div {
+  padding: 20px;
+}
+#her-img {
+  background: #eee;
+  width: 100%;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+li {
+  margin: 20px;
+}
